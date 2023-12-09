@@ -1,3 +1,21 @@
+# Projeto de Cards de Colaboradores com React
+
+Este projeto utiliza React para criar cards dinâmicos de colaboradores, exibindo informações relevantes de acordo com seus cargos. A aplicação proporciona uma maneira fácil e organizada de visualizar a equipe, destacando as habilidades e responsabilidades de cada colaborador.
+
+### Funcionalidades
+**Cards Dinâmicos:** Cada colaborador é representado por um card dinâmico que exibe informações específicas, como nome, cargo e descrição.
+
+**Organização por Cargos:** Os cards são agrupados de acordo com os cargos, proporcionando uma visão organizada da equipe.
+
+**Componentes React Reutilizáveis:** A aplicação utiliza componentes React reutilizáveis para facilitar a manutenção e extensão do código.
+
+### Tecnologias Utilizadas
+**React:** Biblioteca JavaScript para a construção de interfaces de usuário.
+
+**JavaScript (ES6+):** Linguagem de programação para a lógica e manipulação de dados.
+
+**CSS:** Estilização para tornar os cards visualmente atraentes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
