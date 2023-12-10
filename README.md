@@ -16,6 +16,9 @@ Este projeto utiliza React para criar cards dinâmicos de colaboradores, exibind
 
 **CSS:** Estilização para tornar os cards visualmente atraentes.
 
+**O projeto está disponível através do link:** https://organo-liart-eight.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
